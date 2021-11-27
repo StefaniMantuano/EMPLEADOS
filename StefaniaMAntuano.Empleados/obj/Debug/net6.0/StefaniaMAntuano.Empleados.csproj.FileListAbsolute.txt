@@ -1,0 +1,15 @@
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\obj\Debug\net6.0\StefaniaMAntuano.Empleados.csproj.AssemblyReference.cache
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\obj\Debug\net6.0\StefaniaMAntuano.Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\obj\Debug\net6.0\StefaniaMAntuano.Empleados.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\obj\Debug\net6.0\StefaniaMAntuano.Empleados.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\obj\Debug\net6.0\StefaniaMAntuano.Empleados.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\bin\Debug\net6.0\StefaniaMAntuano.Empleados.exe
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\bin\Debug\net6.0\StefaniaMAntuano.Empleados.deps.json
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\bin\Debug\net6.0\StefaniaMAntuano.Empleados.runtimeconfig.json
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\bin\Debug\net6.0\StefaniaMAntuano.Empleados.dll
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\bin\Debug\net6.0\ref\StefaniaMAntuano.Empleados.dll
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\bin\Debug\net6.0\StefaniaMAntuano.Empleados.pdb
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\obj\Debug\net6.0\StefaniaMAntuano.Empleados.dll
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\obj\Debug\net6.0\ref\StefaniaMAntuano.Empleados.dll
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\obj\Debug\net6.0\StefaniaMAntuano.Empleados.pdb
+C:\Users\CompuStore\source\repos\StefaniaMAntuano.Empleados\StefaniaMAntuano.Empleados\obj\Debug\net6.0\StefaniaMAntuano.Empleados.genruntimeconfig.cache
